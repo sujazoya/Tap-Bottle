@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game_Handler_SUJA/LoadingScene.unity
+    guid: 14b1a56decc7da341ba9f089a8c821b5
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/Main Screen.unity
+    guid: 6f3b6c2ffab30444382349af1018a4b0
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/1.unity
+    guid: 4ff499b44ccf6aa4d8a7487d98fb5aca
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/2.unity
+    guid: 759bc78fa6a6d304eafadee59081551f
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/3.unity
+    guid: 03d30ccca373d644b8408ea5f4ad546e
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/4.unity
+    guid: d6e368aee07ad724090e9bde76e8778d
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/5.unity
+    guid: b5fae5759e2f97546bcbe8a1a6b4379f
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/6.unity
+    guid: 2694a6644d1a48a41b78f68a55bd83ef
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/7.unity
+    guid: 7b8fc75fa70947f4bb6ec09b7b829c1c
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/8.unity
+    guid: edf585ec65ad0b2489e854dad36f004f
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/9.unity
+    guid: 09e7a77b749099a4fbfca8c21e0f0bc4
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/10.unity
+    guid: 04f7f53a2fe153f4b96749c2bb571125
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/11.unity
+    guid: 92f8716c4a45e094982e1d885c8f1e81
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/12.unity
+    guid: 7046c94fb03d85d4695c5a334daea9e2
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/13.unity
+    guid: 137d6f7bb96fb1a488453ad06016453a
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/14.unity
+    guid: 7ae5d6b88ec5c1247857b87a96c52933
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/15.unity
+    guid: 6f4eda65b3907ee409a06781e6b01822
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/16.unity
+    guid: ef046e6a9ab480b4682ff1591d88feb8
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/17.unity
+    guid: daf44cfbe0f87b74b91f30cb83fe8f4d
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/18.unity
+    guid: f8796e493335739468d1444339746505
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/19.unity
+    guid: 03806bc8fb83a044b89c7fc697c51be8
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/20.unity
+    guid: 02f22644abccba04fa0e72a755757889
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/21.unity
+    guid: 2bf2e77c326a4d243b9e7644948ef18c
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/22.unity
+    guid: 46bd2f715e580c14eb91fa2eca50e586
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/23.unity
+    guid: 864c2f99eee04634580028c390ed8766
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/24.unity
+    guid: 2bb87df525e26b64ebc7b32d5e51e82e
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/25.unity
+    guid: a9bfa94853502b14dbe9bcd7c8d572d8
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/26.unity
+    guid: c4a38a3caba7ce54c81a5700031a0224
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/27.unity
+    guid: 34f39bb10aa4b7c4b96f5fb680d2b719
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/28.unity
+    guid: 16057f66e6fe54945bcbc18bc377a85d
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/29.unity
+    guid: 884acc5b4a3e5bf4296b69f712146584
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/30.unity
+    guid: 4f4d92a7c0963cd4fab51eb13238d010
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/31.unity
+    guid: b1b656ec30fb000429ea0525114525f2
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/32.unity
+    guid: 91153bd154f524245876b831697c9bed
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/33.unity
+    guid: e3df2765e32e63c4aa9f4a912730d3fb
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/34.unity
+    guid: de18f36e2f3fff347aac25cb43794660
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/35.unity
+    guid: f143d32a94d984f4f919e9060472eb55
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/36.unity
+    guid: 25b8730dc44479545b0615fd4a436395
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/37.unity
+    guid: 0badba178a156854b96b2360fb4735fa
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/38.unity
+    guid: fa7ea4da9e91dd14cb08f23ab1027ca2
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/39.unity
+    guid: b0d09607344194244b330de822fe67ef
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/40.unity
+    guid: ef9db98b4250f55438dc324b2742de09
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/41.unity
+    guid: 0f4e7e48e99cf1f48b5ab6e83b6e4acc
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/42.unity
+    guid: f594f5837158cf148a463d7991312524
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/43.unity
+    guid: 60f08fa01b9744448b1fba393e07e55a
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/44.unity
+    guid: 7b786988714a9994e8cb2abb5a3552cd
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/45.unity
+    guid: 508d6d86d2ea20c4ca05f90ecf503e3e
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/46.unity
+    guid: 6e1a6104bd91f8d4286e812098250d57
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/47.unity
+    guid: 5f936795e25409148843cf1420dbaeab
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/48.unity
+    guid: 934138443e416814291e883b00834f73
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/49.unity
+    guid: 5587dd88070ba79418d85daf332346c1
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/50.unity
+    guid: f4a9eb941fdd3e64492af84da70b709b
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/51.unity
+    guid: 329ccf77a9aff9f4482e847f668dfaae
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/52.unity
+    guid: 047a853994d47884b9d1bf7d66514c5f
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/53.unity
+    guid: bd6b47ce9df6ecb47a161a064ffdc7bd
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/54.unity
+    guid: b779a409d00b1384790b794a2b82520b
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/55.unity
+    guid: d1b1f9f105ca3e74291767a1df11d920
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/56.unity
+    guid: 7268665b0a8f13d4191c983fa478fc38
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/57.unity
+    guid: 7501a81f566da85498266652d9e42586
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/58.unity
+    guid: 63aa5f3b10835a248b163e925a227710
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/59.unity
+    guid: c809c69a7c712b3428f6c89247f4f198
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/60.unity
+    guid: 6fc6c7b8ce804274793e1992d20d9cea
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/61.unity
+    guid: 0763c5470c83adf409dd8f468e0bd8bd
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/62.unity
+    guid: c7a789098a030a14bb075665a455fea2
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/63.unity
+    guid: 54253b42c7831194491af869c33a732e
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/64.unity
+    guid: 7a5bf866f9eace2499b430a4d751e69c
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/65.unity
+    guid: 0a8981e3fbbb6234eb8a412c197b0560
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/66.unity
+    guid: ad7b36e0cdadb2548847a0f4a032f5d7
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/67.unity
+    guid: 7ea607709fd85d0428ac614ec992aa86
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/68.unity
+    guid: 92d42a1e9d0429d4cad24bf6b1b4e44b
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/69.unity
+    guid: d6862deb9e6814a4dbe8a59b14186be4
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/70.unity
+    guid: 6fcb4deda649a8e479485a4d80e0e318
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/71.unity
+    guid: e63dafe6c81c6214598a9c58bb971e38
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/72.unity
+    guid: 6764800a699325745a7677294ca60ed6
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/73.unity
+    guid: a5994d63d2559534bb121ad5e2e9adc6
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/74.unity
+    guid: a444377ea0f0276468e42613b04ce1fc
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/75.unity
+    guid: 5f511f5b042e05e459c1f35f14d3f57b
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/76.unity
+    guid: 749f12ad1a9064b438b8da63252642ab
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/77.unity
+    guid: 8c74d9be15dfeeb47b0d3215d3da573b
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/78.unity
+    guid: eb5e3f71d2c9b414490d888343d87779
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/79.unity
+    guid: 27214ffafefe1a04e958386cead986b9
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/80.unity
+    guid: 8524651a2eb7d0346b8ccc7c31521119
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/81.unity
+    guid: 0d31f522602311f4ab8576d612eb52d0
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/82.unity
+    guid: 2706ae063112dde4d8c593e505fe938e
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/83.unity
+    guid: 56adae517d04ce847a67b6e42be12cb2
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/84.unity
+    guid: c5df16b6acc8d92448f40f3985da9545
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/85.unity
+    guid: 629f862cd89cc894181d1f428ce3a8a2
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/86.unity
+    guid: e91e9cf865334bb45b9099dc4ff0100f
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/87.unity
+    guid: 34cdd99ce2ffa5d4da619faeade9ae46
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/88.unity
+    guid: 7905519572dbe844aa891ef87f010f61
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/89.unity
+    guid: aff5f932b3d119f4980ec852ea787f89
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/90.unity
+    guid: 4d150c76dc95ed441be656512c691249
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/91.unity
+    guid: e37d1986aa8c0a6479b043f314411c34
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/92.unity
+    guid: 77941715dcc3c7f468682621d122f5ad
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/93.unity
+    guid: 9548af5dbbcc10d48b00a235acb0b971
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/94.unity
+    guid: 84e6ea53a906d144a9cf4043d8dc24ea
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/95.unity
+    guid: 94b1b37fe9c127344b8a6cfb4ceeef62
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/96.unity
+    guid: 4abfad7bbdddb164ab999bf294163e0a
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/97.unity
+    guid: 0143309b2ab3025449efc7319f5b4391
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/98.unity
+    guid: 4b16626e9046a5a4b9cbefd454a1e333
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/99.unity
+    guid: 41b24f9e3c9314643843256677c896cf
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/100.unity
+    guid: c05e12ba05d5ce04ea49ef662db3fb5b
+  - enabled: 1
+    path: Assets/Tap Bottle/Scenes/9999.unity
+    guid: 237482673f3267e499f3626995726871
+  m_configObjects: {}
