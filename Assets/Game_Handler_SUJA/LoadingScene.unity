@@ -220,6 +220,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2981949167491798585, guid: 0c795d1a83935904e98149ab328da6b7,
+        type: 3}
+      propertyPath: sceneNameToLoad
+      value: Main Screen
+      objectReference: {fileID: 0}
     - target: {fileID: 2981949167491798594, guid: 0c795d1a83935904e98149ab328da6b7,
         type: 3}
       propertyPath: m_Name
@@ -330,6 +335,12 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7170363394935118174, guid: 0c795d1a83935904e98149ab328da6b7,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0dccf03be68c95a48ada2abcc5538640,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c795d1a83935904e98149ab328da6b7, type: 3}
 --- !u!1 &1919282223
